@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+
+.container {
+    @apply m-auto max-w-screen-lg px-6;
+}
